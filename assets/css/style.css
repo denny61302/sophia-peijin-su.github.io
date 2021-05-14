@@ -1731,7 +1731,6 @@ p {
 .about-area {
   position: relative;
   background-color: #f4f6f7;
-  padding-top: 25px;
   padding-bottom: 50px;
 }
 .about-area .section-title .title {
@@ -1756,7 +1755,6 @@ p {
   font-size: 20px;
   line-height: 25px;
   color: #121212;
-  margin-top: 8px;
 }
 @media (max-width: 767px) {
   .about-area .section-title .text {
@@ -1777,14 +1775,14 @@ p {
 }
 @media (max-width: 767px) {
   .single-about .about-content {
-    padding-left: 0;
+    padding-left: 30px;
     padding-top: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .single-about .about-content {
     padding-left: 30px;
-    padding-top: 0;
+    padding-top: 30px;
   }
 }
 .single-about .about-content .about-title {
@@ -1796,7 +1794,6 @@ p {
 .single-about .about-content .text {
   font-size: 16px;
   color: #121212;
-  margin-top: 16px;
 }
 
 /*===========================
