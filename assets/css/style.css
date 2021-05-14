@@ -122,6 +122,12 @@ p {
 }
 
 /*==== Section Title =====*/
+
+.section-title .arroeresponsive {
+  width: 50%;
+  height: auto;
+}
+
 .section-title .title {
   font-size: 44px;
   font-weight: 500;
