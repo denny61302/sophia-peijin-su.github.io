@@ -52,7 +52,7 @@
         rows: 1,
         rtl: !1,
         slide: "",
-        slidesPerRow: 1,
+        slidesPerRow: 3,
         slidesToShow: 1,
         slidesToScroll: 1,
         speed: 500,
